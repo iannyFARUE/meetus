@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169153081838",
+    "firebase_url": "https://schoolbook-app.firebaseio.com",
+    "project_id": "schoolbook-app",
+    "storage_bucket": "schoolbook-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169153081838:android:e9c520fc840c26cf17deff",
+        "android_client_info": {
+          "package_name": "com.example.schoolbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169153081838-k98fo2olh0728s9ms8ege8t36poa1o1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoAAZLO7E0xzTq5mTfbqVdOUEaac3cyXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169153081838-k98fo2olh0728s9ms8ege8t36poa1o1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
